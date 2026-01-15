@@ -3,4 +3,5 @@ In this study, we propose a vision-based framework to enhance construction safet
 ## Proposed Approach
 ![image](figures/graph_abstract.png)
 ## Demo
-![video](result_demo.mp4)
+https://github.com/user-attachments/assets/a3041b57-d3e9-4303-a999-33ad529100ca
+
