@@ -1,5 +1,5 @@
-# DT-CRANES: Scene Coordinate Regression–Based Spatial Awareness for Advanced Multi-Crane Safety Monitoring in Construction Sites
-DT-CRANES is a vision-based framework for real-time multi-crane safety monitoring using Scene Coordinate Regression (SCR). It directly estimates 6-DoF crane tip poses from monocular images without feature matching or additional sensors.Crane-mounted and drone imagery are fused to build scene-specific spatial representations and integrated into NVIDIA Omniverse digital twin for real-time visualization and automated near-collision detection.
+# D2S-MDE: Dual Camera Relocalization and Monocular Depth Fusion for Digital Twin–Based 3D Safety Monitoring in Construction.
+In this study, we propose a vision-based framework to enhance construction safety monitoring by fusing camera relocalization and monocular depth estimation within a unified pipeline, integrated with digital twin technology. Our target is presenting a system that predict and monitoring the operation of tower crane in crowded enviroments
 ## Proposed Approach
 ![image](figures/Framework.png)
 ## Sample results
